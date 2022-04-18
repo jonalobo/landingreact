@@ -1,9 +1,10 @@
-import {Header} from './container'
+import {Header, Section1} from './container'
 
 function App() {
   return (
     <>
       <Header />
+      <Section1 />
     </>
   );
 }
